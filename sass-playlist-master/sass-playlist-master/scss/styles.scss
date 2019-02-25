@@ -1,10 +1,7 @@
-.rule {
-  color: blue;
-    a {
-      color:red;
-      span {
-        color:pink;
-      }
-    }
+//Variables
 
+$deepBlue: #032f3e;
+
+#main-nav{
+  background : $deepBlue;
 }
