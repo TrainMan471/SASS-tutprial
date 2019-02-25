@@ -1,2 +1,6 @@
 .rule {
   color: blue; }
+  .rule a {
+    color: red; }
+    .rule a span {
+      color: pink; }
